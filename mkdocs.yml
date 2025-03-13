@@ -1,4 +1,5 @@
 site_name: Kremilly Docs
+site_url: https://docs.kremilly.com/
 repo_url: https://github.com/kremilly/MyApis
 theme:
   name: material
