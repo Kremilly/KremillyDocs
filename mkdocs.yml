@@ -36,6 +36,7 @@ nav:
     - GitHub: github.md
     - PDFInfo: pdfinfo.md
     - PDFThumb: pdfthumb.md
+    - PDFScrape: pdfscrape.md
     - QRCode: qrcode.md
     - StatsLangs: statslangs.md
     - Wikipedia: wikipedia.md
